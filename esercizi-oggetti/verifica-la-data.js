@@ -20,7 +20,6 @@
 
 var data = {};
 
-
 controllo(26,12,2016);
 
 function controllo(d,m,y) {
